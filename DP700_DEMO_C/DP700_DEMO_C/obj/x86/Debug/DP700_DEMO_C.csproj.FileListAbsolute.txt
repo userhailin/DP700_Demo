@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\bin\Debug\DP700_DEMO_C.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\bin\Debug\DP700_DEMO_C.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.pdb
+D:\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.exe
+D:\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.pdb
+D:\DP700_DEMO_C\DP700_DEMO_C\bin\Debug\DP700_DEMO_C.exe
+D:\DP700_DEMO_C\DP700_DEMO_C\bin\Debug\DP700_DEMO_C.pdb
+D:\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.Form1.resources
+D:\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.Properties.Resources.resources
+D:\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.csproj.GenerateResource.Cache
+C:\Users\467-JS\Documents\Visual Studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.exe
+C:\Users\467-JS\Documents\Visual Studio 2010\Projects\DP700_DEMO_C\DP700_DEMO_C\obj\x86\Debug\DP700_DEMO_C.pdb
